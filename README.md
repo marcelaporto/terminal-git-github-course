@@ -185,3 +185,4 @@ The `master` branch is the default branch, and is created automatically; every o
 * [Git A-Z Index - Reference](https://ss64.com/bash/)
 * [Pro Git Book - Reference](https://git-scm.com/book/en/v2)
 * [Github's Git Cheat Sheet - Reference](https://education.github.com/git-cheat-sheet-education.pdf)
+* [5 Useful Tips for a Better Commit Message](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
