@@ -4,8 +4,7 @@
 > **Preparation Tips**
 :      
 > - Recommended having a GitHub account                               
- -
- Recommended having installed iTerm2(iOS) or GitBash(Windows)
+ - Recommended having installed iTerm2(iOS) or GitBash(Windows)
 
 ## Project
 The Git and Terminal session is aimed at giving the participants the basic understanding of how the terminal works, it’s main tools, and how to integrate your terminal to Github. By the end of this project, participants will have created a Git account, will know how to navigate through their computer by the terminal, as well as run code, create new files, pull a project from GitHub, and push a previous project to Github.
@@ -133,6 +132,7 @@ The status of a branch in a Git repository tells us if changes have been made to
 	- Add/stage those files for a commit
 	- Commit those changes with a message
 
+
 ### Branching in Git
 
 Creating a **branch** in Git gives you a "copy" of your project to work on. You have your `master` branch (the default branch in any repository), which is the original code. You create a branch.
@@ -152,6 +152,7 @@ The `master` branch is the default branch, and is created automatically; every o
 	* Go to master branch and `git merge [branch name]`
 
 > To see a list of all Git commands, type `git help`   in your terminal. To learn more about a particular command, type `git help COMMAND-NAME`. 
+
 
 ### Github
 
