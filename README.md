@@ -179,9 +179,9 @@ The `master` branch is the default branch, and is created automatically; every o
 
 ### Resources
 
-[Terminal Crash Course - Reading](https://learnpythonthehardway.org/book/appendixa.html)
-[Tutorial: Become a Git Guru - Reading](https://www.atlassian.com/git/tutorials)
-[Introduction to GIT/GITHUB - Reading](https://sklise.com/2012/09/22/introduction-to-git/) ***
-[Git A-Z Index - Reference](https://ss64.com/bash/)
-[Pro Git Book - Reference](https://git-scm.com/book/en/v2)
-[Github's Git Cheat Sheet - Reference](https://education.github.com/git-cheat-sheet-education.pdf)
+* [Terminal Crash Course - Reading](https://learnpythonthehardway.org/book/appendixa.html)
+* [Tutorial: Become a Git Guru - Reading](https://www.atlassian.com/git/tutorials)
+* [Introduction to GIT/GITHUB - Reading](https://sklise.com/2012/09/22/introduction-to-git/) ***
+* [Git A-Z Index - Reference](https://ss64.com/bash/)
+* [Pro Git Book - Reference](https://git-scm.com/book/en/v2)
+* [Github's Git Cheat Sheet - Reference](https://education.github.com/git-cheat-sheet-education.pdf)
