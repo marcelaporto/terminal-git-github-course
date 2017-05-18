@@ -3,7 +3,8 @@
 *Instructor(s): Marcela, Yaritza | Expected Length: 1 Session*
 > **Preparation Tips**
 :      
-> - Recommended having a GitHub account                               - Recommended having installed iTerm2(iOS) or GitBash(Windows)
+> Recommended having a GitHub account                               
+> Recommended having installed iTerm2(iOS) or GitBash(Windows)
 
 ## Project
 The Git and Terminal session is aimed at giving the participants the basic understanding of how the terminal works, it’s main tools, and how to integrate your terminal to Github. By the end of this project, participants will have created a Git account, will know how to navigate through their computer by the terminal, as well as run code, create new files, pull a project from GitHub, and push a previous project to Github.
